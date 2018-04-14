@@ -1,8 +1,12 @@
 #images{
     display: flex;
     align-items: flex-start;
+    transition: all 0.5s;
 }
 #window{
     width: 250px;
     overflow: hidden;
+}
+.red{
+    color: red;
 }
